@@ -1,5 +1,5 @@
 MyJDBC.java
-- nandito lahat ng functions para sa pag connect sa db
+nandito lahat ng functions para sa pag connect sa db
 - Register Function
 - - Boolean para sa pag determine kung success or fail ang registration
 - Check User function
